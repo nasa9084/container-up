@@ -1,4 +1,4 @@
-container-up
+![container-up logo](assets/container-up.png)
 ============
 
 `container-up` is a tool for updating docker container.
