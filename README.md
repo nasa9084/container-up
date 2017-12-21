@@ -1,5 +1,4 @@
 ![container-up logo](assets/container-up.png)
-============
 
 `container-up` is a tool for updating docker container.
 This tool recreate container with same configurations (volume mount, port mapping, and so on).
